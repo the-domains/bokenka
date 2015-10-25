@@ -1,6 +1,6 @@
 name: bokenka
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74113
 typography_spectrum: 0.9123
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#a2b060'
   brandStrength: 1
   lightness: 1
-  saturation: 0.5625
+  saturation: 0.75
   rhythmicContrast: 1
 purpose: []
