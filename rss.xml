@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bokenka]]></title>
+        <description><![CDATA[bokenka]]></description>
+        <link>https://thegrid.ai/bokenka/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 08:08:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bokenka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why visit Japan?]]></title>
+            <description><![CDATA[<article><h1>Why visit Japan?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc34b29d-85d1-4068-be99-302e83e3cad4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bokenka/why-visit-japan/index.html</link>
+            <guid isPermaLink="false">6155a24d-ca55-4663-8b88-146c358de824</guid>
+            <pubDate>Sun, 25 Oct 2015 08:07:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/bokenka/ad1059bb-db9c-4044-a0f1-e80a9cb2be58/index.html</link>
+            <guid isPermaLink="false">ad1059bb-db9c-4044-a0f1-e80a9cb2be58</guid>
+            <pubDate>Sun, 25 Oct 2015 07:52:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
