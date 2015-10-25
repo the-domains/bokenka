@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-25T03:19:25.578Z'
-dateModified: '2015-10-25T03:19:06.212Z'
+datePublished: '2015-10-25T07:58:01.885Z'
+dateModified: '2015-10-25T03:20:19.002Z'
 title: Testing on The Grid
 author: []
 sourcePath: _posts/2015-10-25-getting-started-on-the-grid.md
