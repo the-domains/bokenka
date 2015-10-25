@@ -1,6 +1,6 @@
 name: bokenka
 favicon: null
-layout_spectrum: 0.11178752477280796
+layout_spectrum: 0.99754
 typography_spectrum: 0.6902066483162344
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.4310672371648252
+  brandStrength: 1
   lightness: 0.576896374579519
   saturation: 0.5559478420764208
   rhythmicContrast: 0.11999354418367147
